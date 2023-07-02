@@ -14,7 +14,7 @@ This script is designed to sharpen an image using a specific convolution mask an
 1. Compile the script using a C compiler:
 
    ```
-   gcc image_sharpening.c -o image_sharpening
+   gcc main.c -o image_sharpening
    ```
 
 2. Run the script with the input image file as the argument:
@@ -70,7 +70,7 @@ The script aims to optimize memory usage and cache efficiency. It utilizes buffe
 
 ## Author
 
-Zlochevskyi Vladyslav (zlochina or zlochvla). This script was written as a part of exercises for subject APO of the CTU FEE.
+Zlochevskyi Vladyslav (zlochina). This script was written as a part of exercises for subject APO of the CTU FEE.
 
 P.S. Do not copypaste if you're a student of CTU FEE, instead this script should serve you as an inspiration or a guidebook in how you acquaire optimised script.
 
